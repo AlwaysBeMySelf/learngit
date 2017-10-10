@@ -5,3 +5,4 @@ git diff test.
 diff1
 diff3
 diff4
+diff5
